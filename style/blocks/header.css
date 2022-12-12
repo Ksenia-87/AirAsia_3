@@ -3,5 +3,5 @@
   display: flex;
   justify-content: space-around;
   align-items: center;
-  /*padding-top: 42;*/
+  max-width: 100%;
 }
