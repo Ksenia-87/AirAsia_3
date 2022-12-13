@@ -121,11 +121,6 @@ img {
 
 }
 
-/*.menu {
-	margin-top: 10px;
-	margin-right:37px;
-}*/
-
 .menu__item {
 	margin-right: 54px;
 }
@@ -284,17 +279,22 @@ img {
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
-	display: flex;
-	flex-direction: column;
 	max-width: 100%;
 }
 
-.top__elephant--container {
-	max-width: 80%;
+.top__elephant--title {
+	width: 100%;
+	max-width: 1920px;
 	display: flex;
-	flex: 1;
 	flex-direction: column;
 	justify-content: space-between;
+}
+
+.title__container {
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
 }
 
 .page__title {
