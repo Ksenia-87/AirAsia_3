@@ -286,11 +286,11 @@ img {
 	background-position: center;
 	display: flex;
 	flex-direction: column;
-	
+	max-width: 100%;
 }
 
 .top__elephant--container {
-	max-width: 100%;
+	max-width: 80%;
 	display: flex;
 	flex: 1;
 	flex-direction: column;
@@ -302,13 +302,13 @@ img {
 	font-weight: 700;
 	font-size: 72px;
 	line-height: 98px;
-	margin-left: 370px;
+	margin-left: 200px;
 }
 
 .breadcrumbs__list {
 	display: flex;
 	align-items: center;
-	margin-left: 370px;
+	margin-left: 200px;
 	padding-bottom: 13.5px;
 }
 
