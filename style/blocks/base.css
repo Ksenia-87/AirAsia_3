@@ -182,12 +182,6 @@ img {
 	margin-top: 57.5px;	
 }
 
-.paginator__container--service {
-	display: flex;
-	justify-content: center;
-	margin-top: 69.5px;
-}
-
 .paginator__display {
 	/*vertical-align: middle;*/
 	margin-right: 25px;
@@ -281,7 +275,7 @@ img {
 	max-width: 100%;
 }
 
-.page__title {
+.container__title {
 	font-style: normal;
 	font-weight: 700;
 	font-size: 72px;
