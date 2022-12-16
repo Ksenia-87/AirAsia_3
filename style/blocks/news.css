@@ -4,6 +4,7 @@
 }
 
 .news__container {
+  width: 100%;
   display: flex;
   flex-wrap: wrap;
   min-height:394px;
