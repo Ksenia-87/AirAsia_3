@@ -176,14 +176,14 @@ img {
   border: 1px solid #F5170E;
 }
 
-.paginator__container {
+.paginator {
 	display: flex;
 	justify-content: center;
 	margin-top: 57.5px;	
 }
 
 .paginator__display {
-	/*vertical-align: middle;*/
+	vertical-align: middle;
 	margin-right: 25px;
 	font-style: normal;
 	font-weight: 400;
@@ -275,7 +275,7 @@ img {
 	max-width: 100%;
 }
 
-.container__title {
+.top-elephant__title {
 	font-style: normal;
 	font-weight: 700;
 	font-size: 72px;
